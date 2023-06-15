@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joseph David @JoseDv17
 - 👀 I’m interested in front-end web development, Python
 - 🌱 I’m currently learning HTML,CSS and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on in future with other web developers
 - 📫 How to reach me Twitter@josefdavis_XIV
 
 <!---
